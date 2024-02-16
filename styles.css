@@ -1,0 +1,30 @@
+*{
+  background-color: antiquewhite;
+}
+
+h2{
+    color: brown;
+    text-align: center;
+  }
+  
+  a{
+    color:rgb(179, 8, 241);
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: large;
+    margin-left: 50%;
+  }
+
+  a:hover{
+    background-color: blue;
+    color: white;
+ }
+
+  img{
+    margin-left: 29%;
+    height: 13cm;
+    width: 13cm;
+  }
+
+
